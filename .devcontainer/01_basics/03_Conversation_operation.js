@@ -30,3 +30,43 @@ let someNumber=33
 let stringNumber=String(someNumber)
 console.log(stringNumber)
 console.log(typeof stringNumber)
+
+
+
+// ***************************OPEARTIONS******************************
+
+let value = 3
+let negValue = -value
+console.log(negValue);
+
+//console.log(2+2)
+//console.log(2-2)
+//console.log(2*2)
+//console.log(2**3)
+//console.log(2/3)
+//console.log(2%3)
+
+let str1 = "Hello"
+let str2 = " hitesh"
+let str3 = str1+str2
+console.log(str3)
+
+console.log("1"+2)
+console.log("1"+2+2)
+//if string first then it will consider whole number string and output is side by side
+console.log(1+"2")
+console.log(1+2+"2")
+//if string last then number will follow their rules and last string just put beside the total number
+
+console.log(((3+4)*5)%3)
+
+console.log(+true)
+console.log(+"")
+
+let num1, num2, num3
+
+let gameCounter=100
+gameCounter++;
+console.log(gameCounter);
+
+//prefox
