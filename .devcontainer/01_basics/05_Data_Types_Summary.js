@@ -71,3 +71,28 @@ console.log(typeof id)
 
 // JavaScript is a dynamically typed language. This means that you don't need to specify the data type of a variable when you declare it.
 
+
+
+// +++++++++++++++++++++++++++Memory++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+// Stack, Heap
+
+// stack => Primitive => Variable copy we get
+// Heap => Non Primitive => refence or orginal value we get
+
+let myYoutubeName = "koushikpanda"
+myAnothername=myYoutubeName
+myAnothername="Don_Pablo"
+
+// console.log(myYoutubeName)
+// console.log(myAnothername)
+
+
+let obj5={user:"gol"}
+let three=obj5
+three.user="gogo"
+
+console.log(obj5)
+console.log(three)
+
