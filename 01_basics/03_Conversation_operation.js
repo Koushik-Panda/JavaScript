@@ -53,10 +53,10 @@ let str3 = str1+str2
 
 //console.log("1"+2)
 //console.log("1"+2+2)
-//if string first then it will consider whole number string and output is side by side
+//if string first, then it will consider the whole number string, and the  output is side by side
 //console.log(1+"2")
 //console.log(1+2+"2")
-//if string last then number will follow their rules and last string just put beside the total number
+//if string last then number will follow their rules and last string will just be put beside the total number
 
 //console.log(((3+4)*5)%3)
 
