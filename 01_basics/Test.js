@@ -38,16 +38,92 @@
 // console.log(a)
 
 
-let s
-let t = Number(s)
-let c=5
+// let s
+// let t = Number(s)
+// let c=5
 
-console.log(typeof s)
-console.log(typeof t)
-console.log(typeof c)
+// console.log(typeof s)
+// console.log(typeof t)
+// console.log(typeof c)
 
-let no = "3a"
-console.log(typeof no)
+// let no = "3a"
+// console.log(typeof no)
+
+
+// let score = "33" 
+// let scores = "11bb"
+// console.log(typeof score);
+// console.log(typeof(score));
+
+
+// let valueInNumber = Number(score) // it consverts any number writen in "" then it convert to number
+// let valuesInNumber = Number(scores) // it try converts number and letteer which is written in "" but hence 2types of data here os it cannot convert it fully thats why in typeof it shown NaN - Not a Number
+
+// console.log(typeof valueInNumber);
+// console.log(valueInNumber);
+
+// console.log(typeof valuesInNumber); 
+
+// let isLoggedIn = "kk"
+// let booleanIsLoggedIn = Boolean(isLoggedIn)
+
+// console.log(booleanIsLoggedIn)
+
+
+// let a = 1
+// let c = Boolean(a)
+// console.log(c)
+
+// let b = 0
+// let d = Boolean(b)
+// console.log(d)
+
+
+// let e = " "
+// let f = Boolean(e)
+// console.log(f)
+
+// let g = "Koushik"
+// let h = Boolean(g)
+// console.log(h)
+
+
+// let someNumber = 22
+// let stringNum = String (someNumber)
+// console.log(stringNum)
+// console.log(typeof stringNum)
+
+// let value = 4
+// let negValue = - value
+// console.log(negValue)
+
+// let str1 = "Hello"
+// let str2 = "Hitesh"
+// let str3 = str1+str2
+// console.log(str3)
+
+// console.log("1"+2+4+5) // after string all the number just sit after this
+// console.log(1+4+5+"2") // bnefore string all the number will execute and then string will just sit
+
+
+// console.log(+"")
+
+// let somenumb = "42"
+// let propernumb = + somenumb //use of + instea Number , can use +
+// console.log (propernumb)
+// console.log (typeof propernumb)
+
+// let gamecunter = 102
+// let fry = ++gamecunter   //before ++ use means it increase the value then show the output
+// let cry = gamecunter++   //after ++ use me means it first does not increse value because it see varaible and give output
+// console.log(gamecunter)
+// console.log(cry)
+// console.log(fry)
+
+
+
+
+
 
 
 
