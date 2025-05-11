@@ -65,3 +65,4 @@ const jjk = {
  }
 
  console.log(jjk.greetingtwo())
+ 
