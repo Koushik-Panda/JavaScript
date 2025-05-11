@@ -1,3 +1,5 @@
+//++++++++++++++++++++++++++++++01+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 // const id = 1226341 //const use for permanently assigned, can't chnage
 // // const id =122234
 
@@ -11,6 +13,8 @@
 // iam = 1122333
 
 // console.log(iam)
+
+//+++++++++++++++++++++++++++++++++++++++++02+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 // "use strict"  if it is enable then in output it shows bad practice
 //               special directive in JavaScript that tells the browser (or Node.js) 
@@ -53,6 +57,7 @@
 // let no = "3a"
 // console.log(typeof no)
 
+//++++++++++++++++++++++++++++++++++++++++++++++03+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 // let score = "33" 
 // let scores = "11bb"
@@ -60,8 +65,9 @@
 // console.log(typeof(score));
 
 
-// let valueInNumber = Number(score) // it consverts any number writen in "" then it convert to number
-// let valuesInNumber = Number(scores) // it try converts number and letteer which is written in "" but hence 2types of data here os it cannot convert it fully thats why in typeof it shown NaN - Not a Number
+// let valueInNumber = Number(score) // it converts any number written in "" then it converts toa  number
+// let valuesInNumber = Number(scores) // it tries to convert number and letter which is written in "" but hence 2 types of data here os it cannot convert 
+//It's full that's why in typeof it shows NaN - Not a Number
 
 // console.log(typeof valueInNumber);
 // console.log(valueInNumber);
@@ -118,11 +124,13 @@
 // console.log (typeof propernumb)
 
 // let gamecunter = 102
-// let fry = ++gamecunter   //before ++ use means it increase the value then show the output
-// let cry = gamecunter++   //after ++ use me means it first does not increse value because it see varaible and give output
+// let fry = ++gamecunter   //before ++ use means it increases the value, then show the output
+// let cry = gamecunter++   //after ++ use me means it first does not increase value because it sees the variable and gives output
 // console.log(gamecunter)
 // console.log(cry)
 // console.log(fry)
+
+//++++++++++++++++++++++++++++++++++++++++++++04++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 // console.log(2>1)
 // console.log(2>=1)
@@ -149,6 +157,8 @@
 
 // console.log(id === anotherID)
 
+//+++++++++++++++++++++++++++05+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
 // const score= 100
 // const scoreValue = 100.3
 // console.log(typeof score)       // it does not differentiate between integer and float
@@ -161,7 +171,7 @@
 // console.log(typeof score) 
 // console.log(typeof scoreValue) 
 
-// after "use strict" it does not change anything
+// after "use strict", it does not change anything
 
 // let user = "koupan"
 // const id = 113425
@@ -217,7 +227,7 @@
 
 //______________________________
 
-// all of this heap memeory
+// all of this heap memory
 
 // let obj5 = {user:"gol"}
 // let three = obj5
