@@ -1,6 +1,5 @@
 // 2 ways to declare 1 literel or 2 constructor
-// singleton -  A singleton object is an object that is created only once during the lifetime of a program. That means:     
-// Only one instance of that object or class exists at any time.A singleton object created using a constructor not literal.
+// A singleton object is one where only one instance exists during the lifetime of the program. In JavaScript, a singleton can be created using an object literal or a constructor pattern that ensures only one instance is created.
 //ex: Object.create
 
 // object literals
